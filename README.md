@@ -26,19 +26,19 @@ A Java Swing application that generates a random number between 1 and 100 and ch
 
 ### Home Screen
 
-![Home Screen](NumberGuessingGame/screenshots/home.png)
+![Home Screen](./NumberGuessingGame/screenshots/home.png)
 
 ### Too High
 
-![Too High](NumberGuessingGame/screenshots/too-high.png)
+![Too High](./NumberGuessingGame/screenshots/too-high.png)
 
 ### Too Low
 
-![Too Low](NumberGuessingGame/screenshots/too-low.png)
+![Too Low](./NumberGuessingGame/screenshots/too-low.png)
 
 ### Correct Guess
 
-![Correct Guess](NumberGuessingGame/screenshots/correct.png)
+![Correct Guess](./NumberGuessingGame/screenshots/correct.png)
 
 ## ▶️ How to Run
 
