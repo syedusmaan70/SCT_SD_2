@@ -2,32 +2,50 @@
 
 ## 📌 SkillCraft Technology Internship - Task 2
 
-A Java Swing application that generates a random number between 1 and 100 and challenges the user to guess it. The application provides helpful feedback after each guess and keeps track of the number of attempts.
+A Java Swing application that generates a random number between 1 and 100 and challenges the user to guess it.
 
 ## 🚀 Features
 
-- 🎲 Generates a random number between 1 and 100
-- 🔢 Allows the user to enter their guess
-- ⬆️ Displays "Too High" when the guess is greater than the target number
-- ⬇️ Displays "Too Low" when the guess is smaller than the target number
-- 🎉 Displays a success message when the correct number is guessed
-- 📊 Keeps track of the number of attempts
-- 🔄 New Game option to restart the game
-- ⚠️ Handles invalid inputs
-- 🖥️ User-friendly graphical interface
+- Generates a random number between 1 and 100
+- Allows the user to enter their guess
+- Displays "Too High" when the guess is too high
+- Displays "Too Low" when the guess is too low
+- Displays a success message when the correct number is guessed
+- Tracks the number of attempts
+- New Game button to restart the game
+- User-friendly Java Swing GUI
+- Input validation
 
 ## 🛠️ Technologies Used
 
 - Java
 - Java Swing
-- AWT
-- Random Number Generation
+- VS Code
+
+## 📷 Screenshots
+
+### Home Screen
+
+![Home Screen](NumberGuessingGame/screenshots/home.png)
+
+### Too High
+
+![Too High](NumberGuessingGame/screenshots/too-high.png)
+
+### Too Low
+
+![Too Low](NumberGuessingGame/screenshots/too-low.png)
+
+### Correct Guess
+
+![Correct Guess](NumberGuessingGame/screenshots/correct.png)
 
 ## ▶️ How to Run
 
-1. Make sure Java JDK is installed on your system.
-2. Open the `NumberGuessingGame.java` file.
-3. Compile the program using:
+1. Clone this repository.
+2. Open the project in VS Code or any Java IDE.
+3. Open the `NumberGuessingGame` folder.
+4. Compile the program:
 
-```bash
+```text
 javac NumberGuessingGame.java
